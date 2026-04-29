@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pipeline-de-Dados-IoT
 =======
 # Pipeline de Dados com IoT e Docker
@@ -106,5 +105,3 @@ Mostra:
 - horários com mais leituras  
 - variação ao longo do tempo  
 - possíveis picos  
-
->>>>>>> 3042d0d (Pipeline de Dados IoT)
